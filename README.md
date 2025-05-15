@@ -1,6 +1,6 @@
 Why Docker Exist?
+  
   Before Docker, we often ran into issues like:
-
   1. "It works on my machine" syndrome
   Code might work perfectly on a developer's computer but fail in testing or production due to different environments, library versions, or OS configurations.
   
